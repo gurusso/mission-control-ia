@@ -19,7 +19,7 @@ Abaixo estão os registros do console do sistema operando em diferentes cenário
 *Legenda: Sistema rodando com parâmetros dentro da janela segura de operação.*
 
 ### Cenário 2: Alerta Crítico Detectado
-![Alerta Crítico](assets/falha_critica.png)
+![Alerta Crítico](assets/falha-critica.png)
 *Legenda: Disparo automático de alertas locais combinado com a análise diagnóstica realizada pela IA.*
 
 ## 🛠️ Como Executar
