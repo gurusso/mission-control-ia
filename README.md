@@ -32,4 +32,4 @@ O projeto foi desenvolvido para ser executado de forma 100% em nuvem através do
 
 ## 🎬 Vídeo de Demonstração
 Assista ao vídeo explicativo de até 3 minutos contendo a apresentação dos membros da equipe e a execução dos testes ao vivo do script:
-👉 
+👉 https://youtu.be/e08nEWQGfKc
